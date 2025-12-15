@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Srikanth Adirala</h1>
 
-<!--
-**AdiralaSrikanth/AdiralaSrikanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: shiva-prasad-adirala](https://img.shields.io/badge/-shivaprasadadirala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiva-prasad-adirala/)](https://www.linkedin.com/in/shiva-prasad-adirala/)
+[![GitHub adiralashiva8](https://img.shields.io/github/followers/adiralashiva8?label=follow&style=social)](https://github.com/adiralashiva8)
+<img src="https://komarev.com/ghpvc/?username=adiralashiva8&label=Profile%20views&color=0e75b6&style=flat" alt="adiralashiva8" />
 
-Here are some ideas to get you started:
+### 👨🏻‍ About Me 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻  4+ years of experience in software testing
+- 🎓  Bachelor of Engineering in Electronics & Communication
+
+### 🛠️ Tech Stack
+
+- 🔣 Python, Java
+- 🤖 Selenium WebDriver, Appium, REST API, Playwright
+- 🧪 Robotframework, Pytest, TestNg
+- 🧰 Maven, Jenkins, JMeter, JIRA, Postman
+- 🕜 GitHub, BitBucket, GitHub Actions
+
+### 📈 Stats
+<p>
+  <img src="https://i.ibb.co/r5ThXkV/Git-Hub-Fun-Facts.png"/>
+</p>
+
+------------
+
+<p>Feel free to reach out and say hello! 👋 </p>

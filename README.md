@@ -2,7 +2,6 @@
 
 ### 👨🏻‍ About Me 🏆
 
-- 💻  4+ years of experience in software testing
 - 🎓  Bachelor of Engineering in Electrical and Electronics
 
 ### 🛠️ Tech Stack
